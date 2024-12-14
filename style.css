@@ -1,0 +1,64 @@
+
+figure{
+    display:inline;
+}
+h2{
+    background-color: red;
+    display:inline-block;
+    color:white;
+}
+h3{
+    background-color:bisque;
+    
+}
+h4{
+    background-color: bisque;
+}
+h10{
+    background-color:teal;
+    color:white;
+}
+h11{
+    background-color:teal;
+    color:white;
+}
+h12{
+    background-color:teal;
+    color:white;
+}
+h13{
+    background-color:teal;
+    color:white;
+}
+h14{
+    background-color: teal;
+    color:white;
+}
+    
+h15{
+    background-color: teal;
+    color:white;
+}
+h16{
+    background-color: teal;
+    color:white;
+}
+h17{
+    background-color:teal;
+    color:white;
+}
+h18{
+    background-color: rgb(40, 15, 63);
+    color:white;
+}
+h1{
+    background-image: url('cropped-UIT-LOGO-PNG-1-120x120.png');
+    background-repeat: no-repeat;
+    
+}
+.sports{
+    display:inline-block;
+    width:300px;
+    height:300px;
+    margin-left: 5px;
+}
